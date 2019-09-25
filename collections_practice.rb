@@ -45,6 +45,6 @@ end
 
 def add_s(array)
   array.each do |string|
-    string[1] = "s"
-  end 
+    string[1] ==
+    end 
 end 
