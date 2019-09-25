@@ -44,7 +44,7 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.each do |string|
+  array.each do |word|
     array[1] == word   
     word 
     end 
